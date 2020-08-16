@@ -1,0 +1,12 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test",
+    "start": "node ./src"
+  },
+  "author": "hypnguyen1209",
+  "license": "ISC"
+}
